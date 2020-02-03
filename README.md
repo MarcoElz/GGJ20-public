@@ -1,7 +1,7 @@
 # GGJ20
 This is the public repository for the assets my team made for the Global Game Jam game.
 
-#Requirements
+# Requirements
 If you try to open the project of this repo you will get errors.
 This game was made using the awesome DoozyUI asset
 
